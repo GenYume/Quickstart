@@ -8,3 +8,5 @@ fields:
   name: photos
   description: Photo Gallery
   hidden: false
+pages:
+- content/first-page.md

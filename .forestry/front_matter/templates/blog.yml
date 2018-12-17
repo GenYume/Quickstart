@@ -1,0 +1,17 @@
+---
+label: Blog
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Your title here
+  label: Title
+  name: title
+- type: text
+  default: Your subtitle here
+  label: Subtitle
+  name: subtitle
+- type: textarea
+  label: Story
+  name: story
+  default: Your story here

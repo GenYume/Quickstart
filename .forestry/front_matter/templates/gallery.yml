@@ -9,4 +9,4 @@ fields:
   description: Photo Gallery
   hidden: false
 pages:
-- content/first-page.md
+- docs/gallery-page.md

@@ -15,3 +15,5 @@ fields:
   label: Story
   name: story
   default: Your story here
+pages:
+- docs/hello-world.html

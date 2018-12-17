@@ -1,0 +1,10 @@
+---
+label: Gallery
+hide_body: false
+is_partial: false
+fields:
+- type: image_gallery
+  label: Photos
+  name: photos
+  description: Photo Gallery
+  hidden: false

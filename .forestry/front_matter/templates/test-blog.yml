@@ -9,3 +9,5 @@ fields:
 - type: textarea
   name: area
   label: Area
+pages:
+- docs/genesis.md

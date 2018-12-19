@@ -19,3 +19,4 @@ fields:
   - my-partial
 pages:
 - docs/genesis.md
+- docs/my-new-page.html

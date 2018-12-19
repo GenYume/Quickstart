@@ -12,5 +12,10 @@ fields:
 - type: datetime
   name: kl
   label: kl
+- type: blocks
+  name: yo
+  label: yo
+  template_types:
+  - my-partial
 pages:
 - docs/genesis.md

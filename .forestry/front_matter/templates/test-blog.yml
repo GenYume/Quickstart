@@ -18,6 +18,4 @@ fields:
   template_types:
   - my-partial
 pages:
-- docs/genesis.md
-- docs/my-new-page.html
-- docs/test.html
+- docs/content/bloo.html

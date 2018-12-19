@@ -9,5 +9,8 @@ fields:
 - type: textarea
   name: area
   label: Area
+- type: datetime
+  name: kl
+  label: kl
 pages:
 - docs/genesis.md
